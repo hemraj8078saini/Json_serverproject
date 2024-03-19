@@ -1,151 +1,74 @@
 {
   "posts": [
     {
-      "id": "1",
-      "name": "hemraj",
-      "img": "https://images.unsplash.com/photo-1707327956851-30a531b70cda?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "id": 1,
+      "name": "John Doe",
+      "age": 30,
+      "email": "john.doe@example.com",
+      "city": "New York"
     },
     {
-      "id": "2",
-      "name": "ram",
-      "img": "https://images.unsplash.com/photo-1707343846292-0c11438d145f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8"
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 25,
+      "email": "jane.smith@example.com",
+      "city": "Los Angeles"
     },
     {
-      "id": "13c6",
-      "name": "hemraj siani",
-      "email": "hemrajsaini8078@gmail.com",
-      "mobile": "23432323",
-      "city": "jaipur",
-      "state": "raj"
+      "id": 3,
+      "name": "Michael Johnson",
+      "age": 35,
+      "email": "michael.johnson@example.com",
+      "city": "Chicago"
     },
     {
-      "id": "f853",
-      "name": "hemraj siani",
-      "email": "hemrajsaini8078@gmail.com",
-      "mobile": "23432323",
-      "city": "jaipur",
-      "state": "raj"
+      "id": 4,
+      "name": "Emily Brown",
+      "age": 28,
+      "email": "emily.brown@example.com",
+      "city": "Houston"
     },
     {
-      "id": "98d4"
+      "id": 5,
+      "name": "David Martinez",
+      "age": 32,
+      "email": "david.martinez@example.com",
+      "city": "Miami"
     },
     {
-      "id": "a78d"
+      "id": 6,
+      "name": "Sophia Taylor",
+      "age": 29,
+      "email": "sophia.taylor@example.com",
+      "city": "San Francisco"
     },
     {
-      "id": "00f6"
+      "id": 7,
+      "name": "William Anderson",
+      "age": 31,
+      "email": "william.anderson@example.com",
+      "city": "Seattle"
     },
     {
-      "id": "bd61"
+      "id": 8,
+      "name": "Olivia Wilson",
+      "age": 27,
+      "email": "olivia.wilson@example.com",
+      "city": "Boston"
     },
     {
-      "id": "baba"
+      "id": 9,
+      "name": "James Lee",
+      "age": 33,
+      "email": "james.lee@example.com",
+      "city": "Dallas"
     },
     {
-      "id": "c83c"
-    },
-    {
-      "id": "f82f"
-    },
-    {
-      "id": "40d4"
-    },
-    {
-      "id": "34de"
-    },
-    {
-      "id": "15bc"
-    },
-    {
-      "id": "1dcf"
-    },
-    {
-      "id": "7513"
-    },
-    {
-      "id": "63cd",
-      "name": "hemraj",
-      "age": 21
-    },
-    {
-      "id": "ba26",
-      "name": "hemraj",
-      "age": 21
-    },
-    {
-      "id": "fd50",
-      "name": "hemraj",
-      "age": 21
-    },
-    {
-      "id": "d633",
-      "name": "hemraj",
-      "age": 21
-    },
-    {
-      "id": "2788",
-      "name": "hemraj",
-      "age": 21
-    },
-    {
-      "id": "1e55",
-      "name": "hemraj",
-      "age": 21
-    },
-    {
-      "id": "d697",
-      "name": "hemraj",
-      "age": 21
-    },
-    {
-      "id": "e21c",
-      "name": "hemraj",
-      "age": 21
-    },
-    {
-      "id": "4d32",
-      "name": "hemraj",
-      "age": 21
-    },
-    {
-      "id": "c90b",
-      "name": "hemraj",
-      "age": 21
-    },
-    {
-      "id": "5693",
-      "name": "hemraj",
-      "age": 21
-    },
-    {
-      "id": "00a2",
-      "name": "hemraj",
-      "age": 21
-    },
-    {
-      "id": "06f8",
-      "name": "hemraj",
-      "age": 21
-    },
-    {
-      "id": "bbf7",
-      "name": "hemraj",
-      "age": 21
-    },
-    {
-      "id": "2a9f",
-      "name": "hemraj",
-      "age": 21
-    },
-    {
-      "id": "5308",
-      "name": "hemraj",
-      "age": 21
-    },
-    {
-      "id": "313b",
-      "name": "hemraj",
-      "age": 21
+      "id": 10,
+      "name": "Emma Garcia",
+      "age": 26,
+      "email": "emma.garcia@example.com",
+      "city": "Atlanta"
     }
   ]
 }
